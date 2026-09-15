@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/lokeshraaj/DSA/tree/master/0645-set-mismatch) |
 | [1657-determine-if-two-strings-are-close](https://github.com/lokeshraaj/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 ## String
 |  |
@@ -12,9 +13,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/lokeshraaj/DSA/tree/master/0645-set-mismatch) |
 | [1657-determine-if-two-strings-are-close](https://github.com/lokeshraaj/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/lokeshraaj/DSA/tree/master/1657-determine-if-two-strings-are-close) |
+## Array
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/lokeshraaj/DSA/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/lokeshraaj/DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
