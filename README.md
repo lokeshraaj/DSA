@@ -22,9 +22,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lokeshraaj/DSA/tree/master/0011-container-with-most-water) |
 | [0645-set-mismatch](https://github.com/lokeshraaj/DSA/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/lokeshraaj/DSA/tree/master/0645-set-mismatch) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/lokeshraaj/DSA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/lokeshraaj/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
