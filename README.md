@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/lokeshraaj/DSA/tree/master/0029-divide-two-integers) |
 | [0645-set-mismatch](https://github.com/lokeshraaj/DSA/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lokeshraaj/DSA/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/lokeshraaj/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
