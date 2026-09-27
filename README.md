@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lokeshraaj/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/lokeshraaj/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/lokeshraaj/DSA/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/lokeshraaj/DSA/tree/master/0031-next-permutation) |
 | [0645-set-mismatch](https://github.com/lokeshraaj/DSA/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lokeshraaj/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lokeshraaj/DSA/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/lokeshraaj/DSA/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
