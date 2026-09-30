@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lokeshraaj/DSA/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/lokeshraaj/DSA/tree/master/0056-merge-intervals) |
 | [0645-set-mismatch](https://github.com/lokeshraaj/DSA/tree/master/0645-set-mismatch) |
 | [1657-determine-if-two-strings-are-close](https://github.com/lokeshraaj/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/lokeshraaj/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/lokeshraaj/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/lokeshraaj/DSA/tree/master/0031-next-permutation) |
+| [0056-merge-intervals](https://github.com/lokeshraaj/DSA/tree/master/0056-merge-intervals) |
 | [0645-set-mismatch](https://github.com/lokeshraaj/DSA/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lokeshraaj/DSA/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/lokeshraaj/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
